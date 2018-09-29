@@ -1,0 +1,6 @@
+[submodule "packages/gameplan"]
+	path = packages/gameplan
+	url = https://github.com/netchampfaris/gameplan
+[submodule "packages/frappejs"]
+	path = packages/frappejs
+	url = https://github.com/frappe/frappejs
